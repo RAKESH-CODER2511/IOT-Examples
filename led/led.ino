@@ -7,8 +7,8 @@
 #define LED 2  //On board LED
 
 //SSID and Password of your WiFi router
-const char* ssid = "G force";
-const char* password = "9724064678";
+const char* ssid = "Your_ssid";
+const char* password = "Your_password";
 
 ESP8266WebServer server(80); //Server on port 80
 
