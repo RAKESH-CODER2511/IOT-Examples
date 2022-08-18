@@ -7,8 +7,8 @@ aREST rest = aREST();
 WiFiServer server(80);
 
 // WiFi parameters
-const char* ssid = "easy";
-const char* password = "eywt4007@#%";
+const char* ssid = "Your_ssid";
+const char* password = "Your_password";
 
 //#define LISTEN_PORT 80
 
